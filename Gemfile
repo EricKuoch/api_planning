@@ -25,6 +25,9 @@ gem 'jbuilder', '~> 2.7'
 # Add authentification
 gem 'devise', '~> 4.8'
 
+# Add way to group by
+gem 'groupdate'
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
