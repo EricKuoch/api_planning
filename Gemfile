@@ -25,9 +25,6 @@ gem 'jbuilder', '~> 2.7'
 # Add authentification
 gem 'devise', '~> 4.8'
 
-# Add way to group by
-gem 'groupdate'
-
 # Add graphql
 gem 'graphql', '~> 1.12', '>= 1.12.8'
 # Use Active Storage variant
